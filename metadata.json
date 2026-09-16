@@ -1,0 +1,6 @@
+{
+  "name": "HealthCare+",
+  "description": "Modern, responsive Healthcare Management Website with patient booking, doctor profiles, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
